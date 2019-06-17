@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextRecognizer</string>
+    <string name="displayText">message</string>
+    <string name="buttonText">ClickMe</string>
+    <string name="saveMessage">Save</string>
+    <string name="read_file">Read File</string>
+    <string name="readmessage">read</string>
+    <string name="being_extraction">Begin Extraction</string>
+</resources>

@@ -1,0 +1,41 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="2" />
+      <entry action="$Cut" count="2" />
+      <entry action="$Paste" count="5" />
+      <entry action="$SelectAll" count="3" />
+      <entry action="$Undo" count="168" />
+      <entry action="ActivateBuildVariantsToolWindow" count="1" />
+      <entry action="ActivatePreviewToolWindow" count="1" />
+      <entry action="ActivateTerminalToolWindow" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="2" />
+      <entry action="Android.RunAndroidSdkManager" count="9" />
+      <entry action="ChooseDebugConfiguration" count="6" />
+      <entry action="CloseProject" count="23" />
+      <entry action="CommentByBlockComment" count="5" />
+      <entry action="CommentByLineComment" count="4" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="Debug" count="6" />
+      <entry action="DialogOkAction Enter" count="12" />
+      <entry action="EditorBackSpace" count="2006" />
+      <entry action="EditorChooseLookupItem" count="18" />
+      <entry action="EditorChooseLookupItemReplace" count="595" />
+      <entry action="EditorCompleteStatement" count="1" />
+      <entry action="EditorCopy" count="43" />
+      <entry action="EditorCut" count="29" />
+      <entry action="EditorDelete" count="1" />
+      <entry action="EditorDown" count="1502" />
+      <entry action="EditorDownWithSelection" count="10" />
+      <entry action="EditorDuplicate" count="1" />
+      <entry action="EditorEnter" count="414" />
+      <entry action="EditorLeft" count="719" />
+      <entry action="EditorLeftWithSelection" count="64" />
+      <entry action="EditorNextWordWithSelection" count="29" />
+      <entry action="EditorPaste" count="77" />
+      <entry action="EditorPreviousWord" count="5" />
+      <entry action="EditorPreviousWordWithSelection" count="213" />
+      <entry action="EditorRight" count="2082" />
+      <entry action="EditorRightWithSelection" count="1" />
+      <entry action="EditorSelectWord" count="1" />
+      
